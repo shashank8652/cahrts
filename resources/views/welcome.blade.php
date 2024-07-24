@@ -355,7 +355,7 @@
             datasets: [{
                 type: 'line',
                 label: 'Line Data',
-                data: [250, 200, 350, 200, 150, 100],
+                data: [250, 200, 489, 200, 150, 100],
                 // data: data,
                 backgroundColor: gradient,
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -370,7 +370,7 @@
             }, {
                 type: 'bar',
                 label: 'Bar Data',
-                data: [450, 450, 450, 450, 450, 450],
+                data: [500, 500, 500, 500, 500, 500],
                 backgroundColor: ['#7c828a6b', '#7c828a6b', '#7C828A', '#7c828a6b', '#7c828a6b',
                     '#7c828a6b', '#7c828a6b'
                 ],
@@ -441,7 +441,7 @@
             labels: ['M', 'T', 'W', 'T', 'F', 'S', 'S'],
             datasets: [{
                 label: 'My Dataset',
-                data: [200, 250, 150, 260, 230, 210, 150],
+                data: [200, 250, 180, 190, 202, 200, 150],
                 backgroundColor: 'rgba(255, 99, 132, 0.2)',
                 borderColor: 'rgba(255, 99, 132, 1)',
                 borderWidth: 2,
